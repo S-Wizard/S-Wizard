@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudhakar</h1>
-<h3 align="center">Machine Learning in progress...</h3>
+<h3 align="center">Learning in progress...</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-wizard" alt="s-wizard" /></a> </p>
 
-- 🌱 I’m currently learning **DS, OOP with python**
+- 🌱 I’m currently learning **Cybersecurity**
 - 📫 How to reach me: **Instagram**
 - 😄 Pronouns: **he/him/his**
 - ⚡ A quote: **As knowledge increases, wonders deepen**
