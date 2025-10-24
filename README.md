@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Cybersecurity**
-- ⚡ Quote: *"As knowledge increases, wonders deepen."*
-- 📫 Reach me on **Instagram**
+- 🌱 I’m currently learning **Cybersecurity**  
+- ⚡ Quote: *"As knowledge increases, wonders deepen."*  
+- 📫 Reach me on **LinkedIn**  
 - 😄 Pronouns: **he/him**
 
 ---
@@ -32,8 +32,8 @@
 
 <h3 align="center">📱 Connect with Me</h3>
 <p align="center">
-  <a href="https://instagram.com/stellarglance" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/sudhakar117/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
   </a>
 </p>
 
