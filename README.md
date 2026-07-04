@@ -1,42 +1,130 @@
-<h1 align="center">Hi...</h1>
-<h3 align="center">Cybersecurity Enthusiast | Exploring the Depths of Technology</h3>
+<h1 align="center">Hi, I'm Sudhakar 👋</h1>
 
----
-
-- 🌱 I’m currently learning **Cybersecurity**  
-- ⚡ Quote: *"As knowledge increases, wonders deepen."*  
-- 📫 Reach me on **LinkedIn**  
-- 😄 Pronouns: **he/him**
-
----
-
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="center">
+  Computer Science Student | Software Engineering | AI & Intelligent Systems
+</h3>
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,linux" alt="Programming" />
-  <br/>
-  <!-- Cybersecurity -->
-  <img src="https://skillicons.dev/icons?i=kali,ubuntu,bash" alt="Cybersecurity OS" />
-  <br/>
-  <!-- Cybersecurity Tools -->
-  <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FC4C02?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=for-the-badge&logo=lock&logoColor=white" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng" />
+  <em>Building software, exploring intelligent systems, and solving real-world problems with technology.</em>
 </p>
 
----
-
-<h3 align="center">📱 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sudhakar117/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sudhakar117/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ “Exploring the unknown — one exploit at a time.” ✨</h3>
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student at **RV College of Engineering**
+- 💻 Interested in **Software Engineering, AI, Cybersecurity, and Intelligent Systems**
+- 🧠 Exploring **Agentic AI, Multi-Agent Systems, and RAG**
+- 🌐 Experienced in building **full-stack, AI-powered, and algorithm-driven systems**
+- 🔐 Strong interest in **Computer Networks, Linux, and Cybersecurity**
+- 📚 Continuously learning and experimenting with new technologies
+
+> 
+
+---
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,java" alt="Programming Languages"/>
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,css" alt="Web Development"/>
+</p>
+
+---
+
+## 🗄️ Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" alt="Databases"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+---
+
+## 🤖 AI, Machine Learning & Agentic Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI and ML"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logoColor=white" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Gemini_VLM-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini VLM"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-5A5A5A?style=for-the-badge&logoColor=white" alt="Tesseract OCR"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+</p>
+
+---
+
+## 🔐 Cybersecurity & Networking
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash" alt="Operating Systems and Shell"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
+
+---
+
+## ⚙️ Development Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" alt="Development Tools"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logoColor=white" alt="gRPC"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+<p align="center">
+  <em>Curious about technology. Focused on building. Always learning.</em>
+</p>
